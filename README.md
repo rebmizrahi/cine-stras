@@ -1,4 +1,4 @@
-# rebmizrahi.github.io
+# Ciné Stras
 <i>Log in as admin with username and password BritneySpears and 1234 !</i>
 
 <br>
