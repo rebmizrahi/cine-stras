@@ -1,0 +1,51 @@
+@import url('https://fonts.cdnfonts.com/css/raptor-kill'); 
+
+* {
+    font-family: 'Raptor Kill', sans-serif;
+}
+
+body {
+    background-color: black;
+    background-image: url("../forest-dark.jpg");
+    background-attachment: fixed;
+}
+
+h2 {
+    font-size: 60px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: -15px;
+}
+p {
+    flex:auto;
+    flex-wrap: wrap;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+form {
+    flex-wrap: wrap;
+    flex:auto;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+input {
+    font-size: 12pt;
+    margin-bottom: 15px;
+    width: 80%;
+    height: max-content;
+}
+
+button {
+    font-size: 15pt;
+}
+
+h3 {
+    font-size: 18pt;
+}

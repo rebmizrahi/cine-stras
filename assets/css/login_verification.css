@@ -1,0 +1,6 @@
+body {
+    flex-wrap: wrap;
+    background-color: black;
+    background-image: url("../window.jpg");
+    background-attachment: fixed;
+}
