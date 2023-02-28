@@ -1,6 +1,6 @@
 # Ciné Stras
 
-Launch with `http://localhost:8000` (or any port)
+Launch with `php -S http://localhost:8000` (or any port)
 
 Log in as admin with username and password BritneySpears and 1234 to see admin functionality
 
